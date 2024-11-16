@@ -134,7 +134,7 @@ void render_layer(uint8_t layer) {
             render_layer_helper_fun(1, PSTR("1:HOME"), 12, 6);
             break;
         case 1:
-            render_layer_helper_fun(1, PSTR("2:CODE"), 12, 6);
+            render_layer_helper_fun(1, PSTR("2:NUMBERS/CODE"), 12, 6);
             break;
         case 2:
             render_layer_helper_fun(1, PSTR("3:OFFICE"), 0, 8);
